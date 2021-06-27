@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: William Bernting's CV
+title: William Bernting
 ---
 
 # William Bernting
