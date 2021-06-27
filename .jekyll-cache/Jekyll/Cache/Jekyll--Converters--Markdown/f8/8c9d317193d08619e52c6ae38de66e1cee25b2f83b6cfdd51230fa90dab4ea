@@ -1,0 +1,99 @@
+I""<h1 id="william-bernting">William Bernting</h1>
+
+<p>Lead person, Web evangelist, servant leader.</p>
+
+<div id="webaddress">
+<a href="william@bernting.se">william@bernting.se</a>
+| <a href="https://wbern.github.io/">What's cooking in my GitHub Page</a>
+</div>
+
+<h2 id="currently">Currently</h2>
+
+<p>Lead Developer in the B2B segment of <a href="https://www.telia.se/foretag">https://www.telia.se/foretag</a></p>
+
+<h3 id="specialized-in">Specialized in</h3>
+
+<ul>
+  <li>Micro-frontend architecture</li>
+  <li>Evolutionary architecture</li>
+  <li>Monorepos / Multi-package repositories (especially leaned towards <a href="https://rushjs.io/">rushjs</a> and <a href="https://pnpm.io/">pnpm</a>)</li>
+  <li>NodeJS tooling for better development experiences</li>
+  <li>Test-driven development</li>
+</ul>
+
+<h3 id="other-interests">Other interests</h3>
+
+<ul>
+  <li>Mob programming</li>
+  <li>Inspiring teams to be product-aware</li>
+  <li>Questioning the status quo, responsibly</li>
+  <li><a href="https://open.spotify.com/show/3ON3CVgrj6IFWiKAyuISkC">Recording a podcasting show</a> with friend and colleague <a href="https://www.linkedin.com/in/henrikstahl/">Henrik Ståhl (Product Owner)</a></li>
+</ul>
+
+<h2 id="education">Education</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2006-2009</code>
+<strong>Upper Secondary High School (Gymnasium), <a href="https://www.ntigymnasiet.se/kronhus/">NTI-Gymnasiet</a></strong></p>
+
+<p><code class="language-plaintext highlighter-rouge">June 1989 - now</code>
+<strong>Self-taught tech and applied tech enthusiast</strong></p>
+
+<p>I am proud to say that I am mostly self-taught. Most of my hard-earned lessons come from personal projects like online multiplayer games, chat bots, server-, media- and home-automation systems.</p>
+
+<h2 id="nominations">Nominations</h2>
+
+<p><code class="language-plaintext highlighter-rouge">Presidential Award nomination, Hewlett Packard Enterprise</code>
+The Salesforce “Improver” tool I developed for this employer received this nomination. Project is listed under “Interesting projects” further down.</p>
+
+<h2 id="interesting-projects">Interesting projects</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2021-Now, Podcast co-creator</code>
+As a nice distraction to talk about things outside our immediate work area, me and Henrik Ståhl discuss various topics on how to strengthen a company and teams, applying various work methods and philosophies, like programming in groups instead of solo programming.</p>
+
+<p>The podcast has given me a good opportunity to reflect on what is actually worth something outside my personal “company bubble”.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2018-Now, Time to market / Developer experience: Frontend Monorepo</code>
+For the frontend within B2B, we adopted Rushjs (Lerna prior), and Web Components, in order to create <a href="https://micro-frontends.org/">micro-frontends</a> that are easy to maintain, and more future-proof than other fast-moving targets.</p>
+
+<p><em>Two</em> key principles throughout this time was to streamline as much of the architectural principles as possible (we categorized our micro-frontends by <a href="https://bradfrost.com/blog/post/atomic-web-design/">Atomic Design</a>), as well as to create tools that gave developers the ability to create new micro-frontends in under 30 seconds, using code generators and quick-start guides.</p>
+
+<p><strong>Since 2021, this project helped influence the company enough to create a united monorepo for B2B and B2C business areas</strong>, where developers are now enjoying increased productivity, more supporting developer tools, and a tried-and-true shared infrastructure. Finally many developers get a more intuitive entry to the ever-growing complexity of frontend-development, that I have witnessed during my time of starting up teams, writing documentation and collaborating on tool- and frontend development.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2016-2017, Chrome Extension: Salesforce "Improver"</code></p>
+
+<p>After a CRM change, and noticing a very tough transition for the company users, I developed a minimal chrome extension for my employer that could improve the user experience, letting employees more easily handle administrative tasks, see items stock, and more. Interest grew fast, and the tool ended up having several hundreds of users before leaving the company. I made sure to set up proper feedback loops with an on-premise chat client (Mattermost), a proper version control system (Gitlab on-premise), a continous integration / continous delivery platform (Gitlab CI), and a proper project board for stakeholders to follow the development of features.</p>
+
+<p>As of 2019, it now boasts 5000 active users, who all voluntarily sought it out and installed it.</p>
+
+<p>The project has been given a very prestigious company-wide award nomination, and has influenced Salesforce, a Fortune 500 company, to add in first class support for tweaking their CRM, for example by <a href="https://developer.salesforce.com/docs/component-library/documentation/lwc">leading the change to supporting the Web Components spec. in browsers</a>.</p>
+
+<p>It was after this project that I felt ready to commit to the idea to drive change through company culture and community movements, via servant leadership and genuine dedication to user experience, whether that user is a company employee or an end customer.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2012-2015, DevOps engineer for community server</code>
+Managed a VoIP server with 175~ active users during peak hours. I wrote plenty of automated bots that assisted visitors throughout this project.</p>
+
+<p>This community project helped me to keep a keener edge with linux as a server as well as with managing rented virtual machines. I also learned more about bot development, focusing on modularity between features.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2013-2015, IT incident monitoring system for hallway monitors</code>
+Monitoring system that centralized incoming tickets from various legacy services using web crawlers and computer macros.</p>
+
+<p>The value brought was increased responsiveness amongst the office workers in critical customer emergencies.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2010, Skype Bot</code>
+Before it became easier to have “rooms” for voice-communication online in Skype and other services, I created a bot with the purpose of hosting calls, inviting users into the call when someone wrote to the bot. The project was written in C# using Skype’s SDK.</p>
+
+<p>This was a very useful feature for me and other collaborators at the time, as we were moving to the Skype platform for day-to-day work, and perhaps one of my first “Developer experience”-focused tools written.</p>
+
+<h2 id="occupation">Occupation</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2011, On-site engineer</code>
+awdawd</p>
+
+<p><code class="language-plaintext highlighter-rouge">2008-2011, Indie Programmer (partly collaborative)</code></p>
+
+<p>Mostly game development, part fun part entrepreneurial. Somewhere along the way I realized that I much more enjoyed tool- and game engine development rather than making a game with a storyline. Looking back, it was definitely a fun ride with the community I was in.</p>
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
+:ET
